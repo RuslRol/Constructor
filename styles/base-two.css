@@ -1,0 +1,82 @@
+.block-two {
+  width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.title-two {
+  text-align: center;
+  margin-top: 57px;
+  letter-spacing: 2.30625px;
+}
+
+.title-strip {
+  border-bottom: solid 2px #00a4e5;
+  width: 50px;
+  height: 0px;
+  margin-left: 442px;
+  margin-top: 11px;
+  margin-bottom: 80px;
+}
+
+.block-two-story {
+  display: flex;
+  margin-bottom: 118px;
+  justify-content: space-between;
+}
+
+.block-two-text {
+  font-size: 13px;
+  line-height: 23px;
+  color: #192227;
+}
+.block-two-text-one {
+  font-size: 20px;
+}
+
+.block-two-png-one {
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.block-two-our {
+  display: flex;
+  justify-content: space-between;
+}
+.block-two-our-title {
+  font-size: 18px;
+  line-height: 21px;
+  letter-spacing: 2.30625px;
+}
+.block-two-our-text {
+  font-size: 11px;
+  line-height: 19px;
+}
+
+.button-one {
+  background-color: #00a4e5;
+  color: #ffffff;
+  width: 150px;
+  height: 40px;
+  border: none;
+}
+
+.block-two-management {
+  display: flex;
+  justify-content: space-between;
+  font-size: 13px;
+  line-height: 23px;
+}
+
+.block-two-management-one {
+  justify-content: column;
+  border: 1px solid #e6e6e6;
+  padding: 23px;
+}
+
+.title-strip-two {
+  border-bottom: solid 2px #00a4e5;
+  width: 50px;
+  height: 2px;
+  margin-top: 10px;
+  margin-bottom: 78px;
+}

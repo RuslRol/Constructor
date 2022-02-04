@@ -1,0 +1,51 @@
+.block-three {
+  background-image: url(../img/bg.png);
+  background-size: cover;
+  text-align: center;
+  height: 498px;
+}
+
+.block-three-title {
+  padding-top: 130px;
+  font-size: 30px;
+  color: #48555b;
+}
+.footer-one {
+  display: flex;
+  align-items: center;
+  background: #171819;
+  height: 99px;
+}
+
+.footer-title {
+  color: #ffffff;
+  letter-spacing: 0.846154px;
+  margin: 0;
+  font-size: 22px;
+  line-height: 26px;
+  margin-left: 450px;
+  margin-right: 70px;
+}
+
+.input {
+  width: 250px;
+  height: 40px;
+}
+
+.footer-two {
+  background: #171819;
+  height: 59px;
+  margin: 0;
+  text-align: center;
+}
+
+.footer-text {
+  font-size: 11px;
+  letter-spacing: 0.846154px;
+  color: #ffffff;
+  margin: 0;
+}
+
+input {
+  padding-left: 16px;
+}
